@@ -1,7 +1,7 @@
 # LangChain Chat with SQL Database
 
 
-Overview
+Overview:
 This project is a Streamlit application that enables users to interact with SQL databases through a conversational interface. By leveraging LangChain and the Groq API, users can easily query their database, whether it's an SQLite or MySQL database, and receive instant responses.
 
 Features
